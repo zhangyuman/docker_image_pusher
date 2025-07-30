@@ -1,1 +1,1 @@
-arm64v8/openjdk:17-ea-17-jdk
+arm64v8/openjdk:17-ea-17-jdk-slim-buster
